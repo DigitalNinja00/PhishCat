@@ -26,3 +26,4 @@ chmod +x phishcat
 ```
 ## Authors
 @DigitalNinja00
+@Cr0w-ui
